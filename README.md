@@ -1,6 +1,6 @@
 # Kev402 - Repositorios y Proyectos
 
-![Kev402 Logo](logo.jpg)
+![Kev402 Logo](asset.jpg)
 
 ## Sobre mí
 Soy programador en Python con un enfoque en la ciberseguridad, a partir de pruebas de hacking ético desarrollo códigos que ayuden a evitar vulnerabilidades, también creo otros tipos de scripts como para automatización de red o scripts de broma.
