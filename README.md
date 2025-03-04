@@ -32,5 +32,5 @@ Aquí encontrarás mis proyectos y herramientas en constante evolución. Puedes 
 ---
 
 ## 🛠️ Tecnologías utilizadas
-- **Python** (PyQt6, subprocess)
+- **Python** (PySide6, subprocess)
 - **Linux & Windows** (pruebas y compatibilidad)
