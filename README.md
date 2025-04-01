@@ -32,5 +32,5 @@ Aquí encontrarás mis proyectos y herramientas en constante evolución. Puedes 
 ---
 
 ## 🛠️ Tecnologías utilizadas
-- **Python** (PySide6, subprocess)
+- **Python** (customtkinter, subprocess)
 - **Linux & Windows** (pruebas y compatibilidad)
